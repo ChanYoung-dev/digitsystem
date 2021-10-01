@@ -15,5 +15,5 @@
 자세한 내용은 자료 참고.
 
 ### 실행 유튜브 영상
-하단 이미지 클릭시 재생   
+- 하단 이미지 클릭시 재생   
 [![digitsystem](http://img.youtube.com/vi/f9aQJN5qcmI/0.jpg)](https://youtu.be/f9aQJN5qcmI?t=0s)  
