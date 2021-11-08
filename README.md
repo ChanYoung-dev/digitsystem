@@ -18,4 +18,4 @@
 - 하단 이미지 클릭시 재생   
 [![digitsystem](http://img.youtube.com/vi/f9aQJN5qcmI/0.jpg)](https://youtu.be/f9aQJN5qcmI?t=0s)  
 
-[![digitsystem2](http://img.youtube.com/vi//PwK4hVRfJ_k/0.jpg)](https://youtu.be/PwK4hVRfJ_k?t=0s)  
+[![digitsystem2](http://img.youtube.com/vi/PwK4hVRfJ_k/0.jpg)](https://youtu.be/PwK4hVRfJ_k?t=0s)  
